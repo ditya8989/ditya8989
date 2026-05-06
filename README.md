@@ -19,7 +19,7 @@
 - Learning more about **CI/CD, container orchestration, monitoring, and network security**
 - Interested in **automation, server administration, routing, switching, and observability**
 - Not Web3 focused, just building useful systems that run well
-- Reach me at **EMAIL_KAMU**
+- Reach me at **muhaditya1325@gmail.com**
 
 ---
 
@@ -83,7 +83,7 @@
   <a href="https://www.instagram.com/USERNAME_INSTAGRAM">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:EMAIL_KAMU">
+  <a href="mailto:muhaditya1325@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/USERNAME_TELEGRAM">
